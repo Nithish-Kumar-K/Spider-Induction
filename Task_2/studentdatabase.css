@@ -1,0 +1,9 @@
+body{
+  text-align: center;
+  color:#333;
+  background-color: #dedede;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+input{
+  size:40;
+}
