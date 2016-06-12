@@ -61,9 +61,10 @@ if ($_GET) {
 
 				<h3>Please give the Roll Number of the student</h3>
 				<input type="number" name="rollno" style="width:24.7em" placeholder="Type your roll number"
-				value="<?php echo $rollno;?>" required>
+				value="<?php echo $rollno;?>" >
 				<span class="error"> <?php echo $rollnoErr;?></span><br/><br/>
 				<input type="submit" name="submit" value="Search">
+        <button type="button" id="advancedoptions" onclick="location.href='advanced_options.php'">Advanced Options</button>
 			</form>
 		</body>
 	</html>

@@ -59,7 +59,7 @@ else{
         body{
           text-align: left;
         }
-        
+
         h1{
           transform: translate(38vw);
         }

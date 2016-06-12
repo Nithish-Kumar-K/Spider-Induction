@@ -66,7 +66,7 @@
           text-align: left;
         }
         h1{
-          transform: translate(38vw);
+          text-align: center;
         }
 
       </style>
