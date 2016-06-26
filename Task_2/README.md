@@ -34,11 +34,11 @@ It is recommended to follow the step by step process as it provides a better und
 The details about the database and the tables used are given below :
 
   1. The user is 'Nithish'@'localhost' (all privileges have been granted).
-  2. Password is 9047142795.
+  2. Password is 'Hohaahoh'.
   3. The database name is 'student_database'.
   4. The table name is 'students'.
 
-The CREATE TABLE command for the table used here is given below.
+The CREATE TABLE command for students is given below.
 ```
 CREATE TABLE students(
 NAME varchar(100) not null,
